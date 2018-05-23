@@ -1,0 +1,110 @@
+<!-- Carousel -->
+<div class="col-md-10 col-md-offset-1">
+<div class="conatiner">
+          <div class="row">
+              <div class="col-xs-12">
+                  <div id="imageCarousel" class="carousel slide" data-interval="2000" style="width：919px; height:230px">
+
+                      <div class="carousel-inner" >
+                          <div class="item active">
+                              <div class="row">
+                                  <div class="col-xs-4 crop">
+                              <a href="https://www.youtube.com/embed/J3RFlQaUiek?index=2&list=PLBtCPKfN1HtKmNUIMtG8HOK06WoDJC1Xb"><img src="https://www.staging1.superinterns.com/wp-content/uploads/2017/11/0.jpg" class="img-responsive" / class="img-responsive" ></a>
+                              <div class="my-caption">
+                              <h2></h2>
+                              <p >Zef Zan discusses how virtual interns helped her build a successful company</p>
+                              </div>
+                            </div>
+                            <div class="col-xs-4">
+                            <a href="https://www.youtube.com/embed/SJcCK7JtUmw?index=8&list=PLBtCPKfN1HtKB5iS01c6DySrp9-b8VOTI"> <img src="https://www.staging1.superinterns.com/wp-content/uploads/2017/11/1.jpg" class="img-responsive" /></a>
+                              <div class="my-caption">
+                              <h2> </h2>
+                              <p>Geoffrey Dix talks about gaining experience to enhance his professional career</p>
+                            </div>
+                          </div>
+                        <div class="col-xs-4">
+                              <a href="https://www.youtube.com/embed/H0HL1K-TdlU?index=6&list=PLBtCPKfN1HtKB5iS01c6DySrp9-b8VOTI"><img src="https://www.staging1.superinterns.com/wp-content/uploads/2017/11/2.jpg" class="img-responsive" /></a>
+                              <div class="my-caption">
+                              <h2></h2>
+                              <p>Michele Shareef shares what she learned from her virtual internship with SuperInterns.com</p>
+                            </div>
+                          </div>
+                      </div>
+                            </div>
+                          <div class="item">
+                              <div class="row">
+                                  <div class="col-xs-4">
+                              <a href="https://www.youtube.com/embed/8H5twImeDFQ"><img src="https://www.staging1.superinterns.com/wp-content/uploads/2017/11/3.jpg" class="img-responsive" /></a>
+                              <div class="my-caption">
+                              <h2></h2>
+                              <p>Drew Berman on how SuperInterns.com helped his company grow</p>
+                            </div>
+                            </div>
+                            <div class="col-xs-4">
+                              <a href="https://www.youtube.com/embed/E33njX3EypE?list=PLBtCPKfN1HtKmNUIMtG8HOK06WoDJC1Xb&index=5"><img src="https://www.staging1.superinterns.com/wp-content/uploads/2017/11/4.jpg" class="img-responsive" /></a>
+                              <div class="my-caption">
+                              <h2></h2>
+                              <p>Bella Zadore on how interns helped with her business</p>
+                            </div>
+                          </div>
+                        <div class="col-xs-4">
+                              <a href="https://www.youtube.com/embed/LtFgEdVoBDI?list=PLBtCPKfN1HtKB5iS01c6DySrp9-b8VOTI"><img src="https://www.staging1.superinterns.com/wp-content/uploads/2017/11/5.jpg" class="img-responsive" /></a>
+                              <div class="my-caption">
+                              <h2></h2>
+                              <p>Damir Siljkovic shares how his love became a full-time career</p>
+                            </div>
+                          </div>
+                      </div>
+                            </div>
+                          <div class="item">
+                              <div class="row">
+                                  <div class="col-xs-4">
+                              <a href="https://www.youtube.com/embed/c-im3zy_dZI"> <img src="https://www.staging1.superinterns.com/wp-content/uploads/2017/11/6.jpg" class="img-responsive" /></a>
+                              <div class="my-caption">
+                              <h2></h2>
+                              <p>William Belle talks about how fresh minds and new outlooks can help your business</p>
+                            </div>
+                            </div>
+                            <div class="col-xs-4">
+                              <a href="https://www.youtube.com/embed/K2I_rA9Gtr8"><img src="https://www.staging1.superinterns.com/wp-content/uploads/2017/11/7.jpg" class="img-responsive" /></a>
+                              <div class="my-caption">
+                              <h2></h2>
+                              <p>Brieaun Cage on learning about leadership and communication</p>
+                            </div>
+                          </div>
+                            <div class="col-xs-4">
+                              <a href="https://www.youtube.com/embed/J3RFlQaUiek?index=2&list=PLBtCPKfN1HtKmNUIMtG8HOK06WoDJC1Xb"><img src="https://www.staging1.superinterns.com/wp-content/uploads/2017/11/0.jpg" class="img-responsive" / class="img-responsive" ></a>
+                              <div class="my-caption">
+                              <h2></h2>
+                              <p >Zef Zan discusses how virtual interns helped her build a successful company</p>
+                              </div>
+                            </div>                      
+
+                       </div>
+                            </div>
+                          </div>
+
+                      
+                  </div>
+<div class="controlsBlock">
+                            <div class="controls">
+                              <a data-target="#imageCarousel" class="carousel-control left" data-slide="prev" style="">
+                                  <span class="glyphicon glyphicon-chevron-left"></span>
+                              </a>
+                              <a data-target="#imageCarousel" class="carousel-control right" data-slide="next" style="">
+                                  <span class="glyphicon glyphicon-chevron-right"></span>
+                              </a>
+                            <!--<a class="left carousel-control" href="#slideshow" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
+                             <a class="right carousel-control" href="#slideshow" data-slide="next"><i class="fa fa-chevron-right"></i></a>-->
+                             <div class="carousel-indicators" >
+                                 <li data-target="#imageCarousel" data-wrap="true" data-slide-to="0" class="active" style="border: 1px solid #040000;"></li>
+                                 <li data-target="#imageCarousel" data-slide-to="1" style="border: 1px solid #040000;"></li>
+                                 <li data-target="#imageCarousel" data-slide-to="2" style="border: 1px solid #040000;"></li>
+                             </div>
+                            </div>
+                            </div>
+
+              </div>
+          </div>
+      </div>
+</div>
